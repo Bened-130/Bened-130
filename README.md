@@ -83,6 +83,12 @@ I'm a passionate Data Analyst and Business Intelligence Specialist who loves tra
 
 </div>
 
+<div align="center">
+💭 Random Dev Quote
+Show Image
+
+</div>
+
 ---
 
 <div align="center">
