@@ -25,16 +25,6 @@ I'm a passionate Data Analyst and Business Intelligence Specialist who loves tra
 - 📫 How to reach me: **benedictkimathi130@gmail.com**
 - 📍 Location: **Nairobi, Kenya**
 ---
-
-## 💼 Professional Summary
-
-```text
-📊 Data Analyst & Business Intelligence Specialist
-🎯 4+ Years of Experience in Data Analytics & BI Solutions
-⚡ Automated workflows processing 10M+ records daily
-📈 Built dashboards serving 100+ business users
-```
-
 ## 🛠️ Technologies & Tools
 
 ### 📊 Data Analysis & Statistics
