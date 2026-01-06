@@ -25,7 +25,7 @@ I'm a passionate Data Analyst and Business Intelligence Specialist who loves tra
 - 📫 How to reach me: **benedictkimathi130@gmail.com**
 - 📍 Location: **Nairobi, Kenya**
 ---
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### 📊 Data Analysis & Statistics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -132,13 +132,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 **💼 LinkedIn:** [Benedict Kimathi](https://linkedin.com/in/benedict-kimathi-074968369)  
 **🐙 GitHub:** [@Bened-130](https://github.com/Bened-130)  
 **📍 Location:** Nairobi, Kenya
-
-### 💬 Open for:
-✅ Data Analyst Positions  
-✅ BI Developer Roles  
-✅ Freelance Analytics Projects  
-✅ Open Source Collaborations  
-✅ Speaking Engagements  
 
 </div>
 
