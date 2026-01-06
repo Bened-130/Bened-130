@@ -1,12 +1,15 @@
-# COVID-19 Genome Sequence Evolution Analysis
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791.svg)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811.svg)
-![Status](https://img.shields.io/badge/Status-Active-success.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+# Hi there, I'm Benedict Kimathi 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+BI+Specialist;4%2B+Years+of+Experience;Turning+Data+into+Decisions;Building+Scalable+Data+Solutions" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benedict-kimathi-074968369)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benedictkimathi130@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
 
 </div>
 
@@ -14,491 +17,410 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Data+Analyst+%7C+BI+Specialist;Turning+Data+into+Decisions;4%2B+Years+of+Experience" alt="Typing SVG" />
+I'm a passionate **Data Analyst and Business Intelligence Specialist** who loves turning complex data into actionable insights. With over **4 years of professional experience**, I specialize in building scalable data pipelines, designing interactive dashboards, and delivering analytics solutions that drive strategic business decisions.
 
-I'm a passionate **Data Analyst** who loves turning complex data into actionable insights through code and visualization. I specialize in building scalable data pipelines, designing interactive dashboards, and delivering analytics solutions that drive business decisions.
-
-- 🔭 I'm currently working on **COVID-19 genome analysis** and **automated BI dashboards**
-- 🌱 I'm currently learning **advanced statistical modeling** and **cloud data engineering**
+- 🔭 I'm currently working on **automated BI dashboards** and **COVID-19 genome analysis**
+- 🌱 I'm currently learning **advanced machine learning techniques** and **cloud data engineering**
 - 👯 I'm looking to collaborate on **open source data analytics projects**
-- 💬 Ask me about **Data Analysis, SQL, Python, Power BI, ETL Pipelines**
+- 💬 Ask me about **Data Analysis, SQL, Python, Power BI, ETL Pipelines, Data Warehousing**
 - 📫 How to reach me: **benedictkimathi130@gmail.com**
+- 📍 Location: **Nairobi, Kenya**
 - ⚡ Fun fact: **I believe a good cup of coffee is the best debugging tool**
+
+---
+
+## 💼 Professional Summary
+
+```text
+📊 Data Analyst & Business Intelligence Specialist
+🎯 4+ Years of Experience in Data Analytics & BI Solutions
+💰 Generated $6M+ in measurable business value
+⚡ Automated workflows processing 10M+ records daily
+📈 Built dashboards serving 100+ business users
+```
+
+### 🏆 Key Achievements
+
+- ✅ **$2.5M Annual Savings**: Built BI dashboard reducing customer churn by 22%
+- ✅ **$3.5M Revenue Identified**: Sales forecasting with 89% accuracy
+- ✅ **$500K Loss Prevention**: Climate forecasting system with 87% accuracy
+- ✅ **97% Time Reduction**: Automated reporting from 8 hours to 15 minutes
+- ✅ **99.8% Data Quality**: Implemented quality controls across multiple organizations
+- ✅ **50K+ Records Processed**: Daily ETL pipelines with automated quality checks
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### 📊 Data Analysis & Business Intelligence
+### 📊 Data Analysis & Statistics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📈 Business Intelligence & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Databases & Data Warehousing
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### ☁️ Cloud & Big Data
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### ☁️ Cloud Platforms & Big Data
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-
-### 📈 Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🧬 Bioinformatics (This Project)
-![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NCBI](https://img.shields.io/badge/NCBI-005571?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 Project Overview
+## 💼 Core Competencies
 
-An end-to-end data analytics project tracking the evolution of SARS-CoV-2 (COVID-19) virus through genomic sequence analysis. This project demonstrates ETL pipeline development, data quality management, statistical analysis, and interactive dashboard creation for public health insights.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🎯 Business Impact
-- ⚡ **97% Time Reduction**: Automated analysis reducing time from 3 days to 2 hours
-- 📈 **89% Accuracy**: Predictive models for variant prevalence trends
-- 💰 **$50K Savings**: Eliminated annual spending on manual analysis
-- 👥 **100+ Users**: Dashboard serving public health officials
-- 🔍 **50K+ Sequences**: Processed and analyzed genomic data
+### 📊 Data Analysis & Processing
+- ✅ ETL Pipeline Development
+- ✅ Data Warehousing & Modeling
+- ✅ Statistical Analysis
+- ✅ Predictive Modeling
+- ✅ Time Series Forecasting
+- ✅ Data Mining & Cleansing
+- ✅ Large-scale Data Processing (10M+ records)
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🎯 Project Objectives
+### 📈 Business Intelligence
+- ✅ Dashboard Design & Development
+- ✅ KPI Tracking & Reporting
+- ✅ Requirements Gathering
+- ✅ Data Storytelling
+- ✅ Ad-hoc Analysis
+- ✅ Stakeholder Communication
+- ✅ User Training & Documentation
 
-- 🦠 Track and analyze COVID-19 variant emergence and evolution patterns
-- 🧬 Identify key mutations in the spike protein associated with variants of concern
-- 🔄 Build automated ETL pipeline for daily genomic data processing
-- 📊 Create interactive dashboard for real-time variant surveillance
-- 🤖 Develop predictive models for variant prevalence trends
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🗄️ Database & SQL
+- ✅ Advanced SQL (Joins, Windows, CTEs)
+- ✅ PLSQL Development
+- ✅ Database Performance Optimization
+- ✅ Data Quality & Integrity Management
+- ✅ Stored Procedures & Functions
+- ✅ Query Optimization
+- ✅ Database Design
 
-## 🏗️ Architecture & Workflow
+</td>
+<td width="50%" valign="top">
 
-```mermaid
-graph LR
-    A[NCBI Database] -->|Download| B[Data Collection]
-    B -->|Raw FASTA| C[Quality Control]
-    C -->|Validated Data| D[ETL Pipeline]
-    D -->|Processed| E[PostgreSQL DB]
-    E -->|Query| F[Statistical Analysis]
-    F -->|Insights| G[Power BI Dashboard]
-    G -->|Decisions| H[Stakeholders]
-```
+### ☁️ Cloud & Automation
+- ✅ Azure Data Services
+- ✅ AWS Data Solutions
+- ✅ Automated Data Pipelines
+- ✅ Workflow Automation
+- ✅ Cloud-based Storage Solutions
+- ✅ CI/CD for Data Projects
+- ✅ API Integration
 
----
-
-## 📁 Project Structure
-
-```
-covid19-genome-analysis/
-│
-├── 📄 README.md                      # You are here!
-├── 📄 requirements.txt               # Python dependencies
-├── 📄 .gitignore                     # Git ignore rules
-├── 📄 LICENSE                        # MIT License
-│
-├── 📂 data/
-│   ├── raw/                          # Original FASTA files
-│   ├── processed/                    # Cleaned data
-│   ├── reference/                    # Reference genome
-│   └── data_dictionary.md            # Data documentation
-│
-├── 📂 notebooks/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_sequence_analysis.ipynb
-│   ├── 04_variant_detection.ipynb
-│   ├── 05_statistical_analysis.ipynb
-│   └── 06_visualization.ipynb
-│
-├── 📂 src/
-│   ├── __init__.py
-│   ├── data_collection.py            # NCBI data download
-│   ├── etl_pipeline.py               # ETL automation
-│   ├── sequence_processor.py         # DNA analysis
-│   ├── variant_analyzer.py           # Variant detection
-│   ├── quality_control.py            # Data quality
-│   ├── statistical_analysis.py       # Statistics
-│   └── visualization.py              # Plotting
-│
-├── 📂 sql/
-│   ├── schema.sql                    # Database schema
-│   ├── queries.sql                   # Analysis queries
-│   └── stored_procedures.sql         # Automation
-│
-├── 📂 dashboards/
-│   ├── powerbi/
-│   │   └── covid_variants.pbix
-│   └── screenshots/
-│       ├── dashboard_main.png
-│       ├── variant_timeline.png
-│       └── mutation_heatmap.png
-│
-├── 📂 reports/
-│   ├── project_report.pdf
-│   └── findings_summary.md
-│
-├── 📂 tests/
-│   ├── test_etl.py
-│   ├── test_sequence_processor.py
-│   └── test_quality_control.py
-│
-└── 📂 config/
-    └── config.yaml
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Featured Projects
 
-### Prerequisites
+### 1️⃣ COVID-19 Genome Sequence Evolution Analysis 🦠
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-black?style=flat-square&logo=github)](https://github.com/yourusername/covid19-genome-analysis)
 
-```bash
-# Python 3.8 or higher
-python --version
+**Description:** End-to-end bioinformatics project analyzing 50,000+ COVID-19 genome sequences to track variant evolution and predict trends.
 
-# PostgreSQL 12+ (optional)
-psql --version
-```
+**Technologies:** `Python` `Biopython` `PostgreSQL` `Power BI` `Statistical Modeling`
 
-### Installation
+**Key Results:**
+- 🎯 89% prediction accuracy for variant prevalence
+- ⚡ Reduced analysis time from 3 days to 2 hours (97% reduction)
+- 💰 $50K annual cost savings through automation
+- 📊 Dashboard serving 100+ public health officials
 
-1️⃣ **Clone the repository**
-```bash
-git clone https://github.com/yourusername/covid19-genome-analysis.git
-cd covid19-genome-analysis
-```
-
-2️⃣ **Create virtual environment**
-```bash
-python -m venv venv
-
-# Windows
-venv\Scripts\activate
-
-# macOS/Linux
-source venv/bin/activate
-```
-
-3️⃣ **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-4️⃣ **Set up database** (optional)
-```bash
-createdb covid_genomes
-psql -d covid_genomes -f sql/schema.sql
-```
-
-### Quick Start
-
-```bash
-# Run data collection
-python src/data_collection.py
-
-# Process sequences
-python src/etl_pipeline.py
-
-# Launch Jupyter notebooks
-jupyter notebook notebooks/
-```
+**Features:**
+- Automated ETL pipeline processing 10K sequences/hour
+- Mutation detection and variant classification algorithms
+- Interactive Power BI dashboard with real-time updates
+- Time series forecasting models
+- PostgreSQL data warehouse with optimized queries
 
 ---
 
-## 📊 Data Sources
+### 2️⃣ Enterprise BI Dashboard System 📊
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-black?style=flat-square&logo=github)](#)
 
-| Source | Description | Link |
-|--------|-------------|------|
-| **NCBI Virus** | Primary genome database | [Visit](https://www.ncbi.nlm.nih.gov/labs/virus/) |
-| **GISAID** | Global influenza data | [Visit](https://www.gisaid.org/) |
-| **COVID-19 Portal** | Comprehensive data hub | [Visit](https://www.covid19dataportal.org/) |
+**Description:** Comprehensive business intelligence solution for EverCommerce processing 10M+ records daily with automated quality checks.
 
-**Sample Data:** 1,000 representative sequences from major variants (Alpha, Beta, Delta, Omicron)
+**Technologies:** `SQL Server` `Power BI` `Python` `Azure` `ETL`
 
----
+**Key Results:**
+- 💰 $2.5M annual savings through customer churn reduction (22%)
+- ⚡ Automated 20 hours/week of manual reporting
+- 📈 50+ interactive dashboards serving business users
+- 🎯 30% reduction in project delays through improved tracking
 
-## 🔬 Analysis Workflow
-
-### 1. Data Collection & Quality Control
-✅ Download sequences from NCBI  
-✅ Validate FASTA format  
-✅ Quality score assessment  
-✅ Remove duplicates  
-**Result:** 99.8% data quality
-
-### 2. Sequence Processing
-✅ Parse FASTA files  
-✅ Extract metadata  
-✅ Calculate GC content  
-✅ Store in PostgreSQL  
-**Speed:** 10,000 sequences/hour
-
-### 3. Variant Detection
-✅ Align to reference genome  
-✅ Identify mutations  
-✅ Classify variants  
-✅ Track defining mutations  
-**Found:** 127 unique spike mutations
-
-### 4. Statistical Analysis
-✅ Temporal trend analysis  
-✅ Geographic distribution  
-✅ Mutation frequency  
-✅ Correlation analysis  
-**Insight:** Omicron has 35+ spike mutations
-
-### 5. Predictive Modeling
-✅ Time series forecasting  
-✅ Logistic regression  
-**Accuracy:** 89% prediction rate
-
-### 6. Visualization & Reporting
-✅ Interactive dashboards  
-✅ Mutation heatmaps  
-✅ Phylogenetic trees  
-✅ Time series plots
+**Features:**
+- SQL-based ETL pipelines with data quality validation
+- Enterprise data warehouse as single source of truth
+- Real-time dashboard updates with drill-down capabilities
+- Automated alert system for KPI thresholds
+- User training program reaching 40+ business users
 
 ---
 
-## 📈 Key Findings
+### 3️⃣ Sales Forecasting & Revenue Optimization 💰
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-black?style=flat-square&logo=github)](#)
 
-### 🦠 Variant Evolution Timeline
+**Description:** Python-based forecasting system for Coca-Cola Beverages Africa analyzing 5M+ monthly transactions.
 
-| Variant | WHO Label | First Detected | Key Mutations | Impact |
-|---------|-----------|----------------|---------------|--------|
-| **Alpha** | B.1.1.7 | Sep 2020 | 17 mutations | Increased transmissibility |
-| **Delta** | B.1.617.2 | Oct 2020 | 28 mutations | Dominant mid-2021 |
-| **Omicron** | B.1.1.529 | Nov 2021 | 35+ mutations | Current dominant variant |
+**Technologies:** `Python` `Pandas` `Scikit-learn` `Power BI` `SQL`
 
-### 🧬 Critical Mutations Identified
+**Key Results:**
+- 💵 $3.5M revenue opportunities identified
+- 🎯 89% sales forecast accuracy
+- 📉 19% reduction in product waste
+- 🚀 25 hours/week saved through pipeline automation
 
-- **N501Y**: Enhanced ACE2 receptor binding
-- **D614G**: Increased transmissibility (↑70%)
-- **E484K**: Immune escape potential
-
-### 🌍 Geographic Patterns
-
-- Variant emergence clusters in high-population regions
-- International travel correlates with rapid spread
-- Average 2-3 month lag between emergence and dominance
-
-### ⏱️ Temporal Insights
-
-- Mutation accumulation: ~2 mutations/month
-- Variant turnover: 4-6 months between dominant strains
-- Peak prevalence: 3-4 months after first detection
+**Features:**
+- Time series analysis with ARIMA and Prophet models
+- Automated data pipelines with error handling
+- Quality control reducing data errors by 42%
+- Multi-dimensional analysis (product, region, time)
+- Interactive dashboards for 30+ decision-makers
 
 ---
 
-## 💻 Code Examples
+### 4️⃣ Climate Intelligence Forecasting System 🌦️
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-black?style=flat-square&logo=github)](#)
 
-### Loading and Processing Sequences
+**Description:** Environmental analytics platform processing 10+ years of meteorological data for strategic planning.
 
-```python
-from Bio import SeqIO
-import pandas as pd
+**Technologies:** `Python` `Time Series Analysis` `Power BI` `Statistical Modeling`
 
-def process_fasta(fasta_file):
-    """Process FASTA file and extract sequence information"""
-    sequences = []
-    
-    for record in SeqIO.parse(fasta_file, "fasta"):
-        seq_data = {
-            'accession': record.id,
-            'sequence': str(record.seq),
-            'length': len(record.seq),
-            'gc_content': calculate_gc_content(record.seq)
-        }
-        sequences.append(seq_data)
-    
-    return pd.DataFrame(sequences)
+**Key Results:**
+- 🎯 87% forecast accuracy achieved
+- ⚡ 97% reduction in report generation time (8 hrs → 15 mins)
+- 💰 $500K prevented in climate-related losses
+- 📊 Real-time insights for 25 stakeholders
 
-def calculate_gc_content(sequence):
-    """Calculate GC content percentage"""
-    g_count = sequence.count('G')
-    c_count = sequence.count('C')
-    return (g_count + c_count) / len(sequence) * 100
-```
-
-### SQL Query for Variant Analysis
-
-```sql
--- Get variant prevalence by month
-SELECT 
-    DATE_TRUNC('month', collection_date) AS month,
-    variant_name,
-    COUNT(*) as sequence_count,
-    ROUND(
-        COUNT(*) * 100.0 / 
-        SUM(COUNT(*)) OVER (PARTITION BY DATE_TRUNC('month', collection_date)), 
-        2
-    ) as percentage
-FROM sequences
-JOIN variant_classifications USING (sequence_id)
-JOIN variants USING (variant_id)
-WHERE collection_date >= '2021-01-01'
-GROUP BY month, variant_name
-ORDER BY month DESC, sequence_count DESC;
-```
+**Features:**
+- Automated data collection from diverse sources
+- Advanced time series forecasting algorithms
+- Geospatial visualization and mapping
+- Risk assessment and early warning system
+- Custom alerts for weather anomalies
 
 ---
 
-## 📊 Dashboard Features
+### 5️⃣ AI Model Validation & Analytics 🤖
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-black?style=flat-square&logo=github)](#)
 
-### Power BI Dashboard Includes:
+**Description:** Proof-of-concept analytics for AI model training and validation at Outlier AI.
 
-🎯 **Variant Prevalence Over Time**  
-Interactive line chart showing variant emergence and decline
+**Technologies:** `Python` `Scikit-learn` `Statistical Analysis` `Data Quality`
 
-🗺️ **Geographic Distribution Map**  
-Country-level variant tracking with heat maps
+**Key Results:**
+- 🎯 28% improvement in model accuracy
+- 📊 6 production-ready predictive models developed
+- ✅ 99.8% data quality through validation frameworks
+- 🔍 5,000+ AI outputs analyzed for reliability
 
-🔥 **Mutation Heatmap**  
-Frequency visualization of mutations across variants
-
-🧬 **Spike Protein Viewer**  
-3D visualization of mutation locations
-
-📈 **Key Metrics Cards**  
-- Total sequences analyzed: 50,000+
-- Variants detected: 15+
-- Average mutations: 23 per variant
-- Last updated: Real-time
-
-**Preview:** See `dashboards/screenshots/` folder
+**Features:**
+- Custom evaluation frameworks for ML models
+- Automated data quality control processes
+- Statistical significance testing
+- Performance metrics tracking
+- Model comparison and benchmarking tools
 
 ---
 
-## 🎯 Business Impact Metrics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-| Metric | Before | After | Improvement |
-|--------|--------|-------|-------------|
-| **Analysis Time** | 3 days | 2 hours | ⚡ 97% reduction |
-| **Data Processing** | Manual | Automated | ✅ 10K seq/hour |
-| **Prediction Accuracy** | N/A | 89% | 📈 High confidence |
-| **Cost Savings** | $50K/year | $0 | 💰 100% savings |
-| **User Reach** | 10 users | 100+ users | 📊 10x growth |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
-### Quantified Impact:
-- ✅ **Automation:** Reduced analysis time from 3 days to 2 hours
-- ✅ **Accuracy:** Achieved 89% prediction accuracy for variant trends
-- ✅ **Scale:** Processed 50,000+ genome sequences
-- ✅ **Quality:** Maintained 99.8% data integrity
-- ✅ **Users:** Dashboard serving 100+ public health officials
-- ✅ **Savings:** Eliminated $50K annual manual analysis costs
-
----
-
-## 🧪 Testing
-
-Run unit tests:
-```bash
-# All tests
-pytest tests/
-
-# Specific test
-pytest tests/test_sequence_processor.py
-
-# With coverage
-pytest --cov=src tests/
-```
-
----
-
-## 📝 Future Enhancements
-
-- [ ] Real-time data streaming from GISAID API
-- [ ] Machine learning for automatic variant classification
-- [ ] Integration with hospitalization/mortality data
-- [ ] Mobile-responsive dashboard
-- [ ] Automated alert system for new variants
-- [ ] Multi-language support
-- [ ] REST API for programmatic access
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
 <div align="center">
 
-### **Benedict Kimathi**
-*Data Analyst | Business Intelligence Specialist*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benedict-kimathi-074968369)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benedictkimathi130@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🙏 Acknowledgments
+## 📈 Professional Experience
 
-- **NCBI** for providing public genomic data
-- **Biopython** community for excellent bioinformatics tools
-- **COVID-19 research community** for open science collaboration
-- **World Health Organization** for variant tracking guidelines
+### 💼 Data Analyst | EverCommerce
+**Remote, United States** | *Nov 2024 - Nov 2025*
 
----
+- Designed SQL-based ETL pipelines processing 10M+ records daily
+- Built an enterprise data warehouse serving as a single source of truth
+- Developed 50+ Power BI dashboards for business intelligence
+- Achieved $2.5M annual savings through automated BI solutions
+- Trained 40+ business users on analytics tools
 
-## 📚 References
-
-1. [NCBI Virus Database](https://www.ncbi.nlm.nih.gov/labs/virus/)
-2. [Biopython Documentation](https://biopython.org/)
-3. [WHO COVID-19 Variant Tracking](https://www.who.int/activities/tracking-SARS-CoV-2-variants)
-4. [GISAID Initiative](https://www.gisaid.org/)
+**Key Technologies:** SQL, Python, Power BI, Azure, Snowflake
 
 ---
 
-## 📊 GitHub Stats
+### 💼 Assistant Mathematical Tutor & Data Analyst | Outlier AI
+**Remote, United States** | *Aug 2021 - Oct 2024*
+
+- Developed 6 production-ready predictive models
+- Improved model accuracy by 28% through data quality processes
+- Processed 5,000+ AI outputs with rigorous validation
+- Created standardized evaluation frameworks
+
+**Key Technologies:** Python, Statistical Analysis, Machine Learning
+
+---
+
+### 💼 Data Analyst | Kenya Climate Innovation Center
+**Nairobi, Kenya** | *Apr 2023 - Nov 2024*
+
+- Built automated BI dashboards, reducing reporting time by 97%
+- Achieved 87% forecast accuracy for climate predictions
+- Prevented $500K in operational losses through proactive insights
+- Trained operational teams on data interpretation
+
+**Key Technologies:** Power BI, Python, Time Series Analysis
+
+---
+
+### 💼 Data Analyst Attachment | Coca-Cola Beverages Africa
+**Nairobi, Kenya** | *Apr 2023 - Sep 2023*
+
+- Processed 5M+ monthly records with 99.7% data integrity
+- Identified $3.5M in revenue opportunities
+- Developed forecasting models with 89% accuracy
+- Automated pipelines saving 25 hours/week
+
+**Key Technologies:** Power BI, Python, SQL, Time Series
+
+---
+
+## 🎓 Education & Certifications
+
+### 🎓 Bachelor of Science in Industrial Mathematics
+**Jomo Kenyatta University of Agriculture and Technology**  
+*2018 - 2025* | Nairobi, Kenya
+
+### 📜 Data Analyst with Excel and Power BI Professional Certificate
+**Moringa School**  
+*2025 - Present* | Nairobi, Kenya
+
+### 📚 Relevant Coursework & Skills
+- Advanced Statistical Methods
+- Mathematical Modeling
+- Operations Research
+- Database Management Systems
+- Data Mining & Machine Learning
+- Business Analytics
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/covid19-genome-analysis?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/covid19-genome-analysis?style=social)
+I'm always open to interesting conversations and collaboration opportunities!
+
+**📧 Email:** [benedictkimathi130@gmail.com](mailto:benedictkimathi130@gmail.com)  
+**💼 LinkedIn:** [Benedict Kimathi](https://linkedin.com/in/benedict-kimathi-074968369)  
+**🐙 GitHub:** [@Bened-130](https://github.com/Bened-130)  
+**📍 Location:** Nairobi, Kenya
+
+### 💬 Open for:
+✅ Data Analyst Positions  
+✅ BI Developer Roles  
+✅ Freelance Analytics Projects  
+✅ Open Source Collaborations  
+✅ Speaking Engagements  
+
+</div>
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm seeking opportunities to:
+
+- 🚀 Work on **challenging data analytics projects** that drive business impact
+- 💡 Collaborate with **cross-functional teams** on data-driven solutions
+- 📊 Build **scalable BI infrastructure** for growing organizations
+- 🌍 Contribute to **open source data analytics** projects
+- 📈 Leverage **cloud technologies** for modern data architectures
+- 🎓 Mentor and **share knowledge** with the data community
+
+---
+
+## 📚 Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+- 🦠 Building a COVID-19 Genome Analysis Pipeline with Python and Biopython
+- 📊 From Manual Reports to Automated Dashboards: A Case Study
+- 💡 5 SQL Optimization Techniques That Saved Me Hours
+- 🎯 How I Achieved 99.8% Data Quality in Production Pipelines
+- ⚡ ETL Best Practices: Lessons Learned from Processing 10M+ Records
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🥇 **Top Performer**: Exceeded KPIs in all positions held
+- 💰 **Revenue Impact**: Generated $6M+ in measurable business value
+- ⚡ **Efficiency Expert**: Reduced processing time by up to 97%
+- 📊 **Dashboard Champion**: Built 50+ production dashboards
+- 🎓 **Certified Professional**: Multiple industry certifications
+- 👥 **Team Trainer**: Trained 40+ users on analytics tools
+
+---
+
+## 📊 Skills Matrix
+
+<div align="center">
+
+| Skill Category | Proficiency | Years |
+|---------------|-------------|-------|
+| **SQL & Database** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **Python (pandas, NumPy)** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **Power BI** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **ETL Development** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **Statistical Analysis** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **Tableau** | ⭐⭐⭐⭐ | 3+ years |
+| **Cloud Platforms (Azure/AWS)** | ⭐⭐⭐⭐ | 2+ years |
+| **Machine Learning** | ⭐⭐⭐⭐ | 3+ years |
+| **Data Warehousing** | ⭐⭐⭐⭐⭐ | 4+ years |
+| **R Programming** | ⭐⭐⭐ | 2+ years |
 
 </div>
 
@@ -506,10 +428,44 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### ⭐ If you find this project useful, please consider giving it a star!
+## 💭 Random Dev Quote
 
-**Last Updated:** January 2026
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-Made with ❤️ and ☕ by Benedict Kimathi
+---
+
+### 📊 This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+**🎯 "Data is the new oil, but insights are the refined fuel that powers decisions."**
+
+---
+
+### Show some ❤️ by starring some repositories!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/covid19-genome-analysis&type=Date)](https://star-history.com/#yourusername/covid19-genome-analysis&Date)
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ and ☕ by Benedict Kimathi**
+
+*Last Updated: January 2026*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
