@@ -17,12 +17,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Data Analyst and Business Intelligence Specialist** who loves turning complex data into actionable insights. With over **4 years of professional experience**, I specialize in building scalable data pipelines, designing interactive dashboards, and delivering analytics solutions that drive strategic business decisions.
+I'm a passionate Data Analyst and Business Intelligence Specialist who loves transforming complex data into actionable insights. With over **4 years of professional experience**, I specialize in building scalable data pipelines, designing interactive dashboards, and delivering analytics solutions that drive strategic business decisions.
 
-- 🔭 I'm currently working on **automated BI dashboards** and **COVID-19 genome analysis**
-- 🌱 I'm currently learning **advanced machine learning techniques** and **cloud data engineering**
-- 👯 I'm looking to collaborate on **open source data analytics projects**
-- 💬 Ask me about **Data Analysis, SQL, Python, Power BI, ETL Pipelines, Data Warehousing**
+- 🌱 **advanced machine learning techniques** and **cloud data engineering**
+- 👯 **open source data analytics projects**
+- 💬 **Data Analysis, SQL, Python, Power BI, ETL Pipelines, Data Warehousing**
 - 📫 How to reach me: **benedictkimathi130@gmail.com**
 - 📍 Location: **Nairobi, Kenya**
 ---
