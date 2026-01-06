@@ -81,11 +81,6 @@ I'm a passionate Data Analyst and Business Intelligence Specialist who loves tra
 | **Data Warehousing** | ⭐⭐⭐⭐⭐ | 4+ years |
 | **R Programming** | ⭐⭐⭐ | 2+ years |
 
-</div>
-
-<div align="center">
-💭 Random Dev Quote
-Show Image
 
 </div>
 
