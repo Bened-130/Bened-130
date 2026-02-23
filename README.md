@@ -2,7 +2,7 @@
 
 # Hi there, I'm Benedict Kimathi 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+BI+Specialist;6%2B+Years+of+Experience;Turning+Data+into+Decisions;Building+Scalable+Data+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Engineer+%7C+ML+Engineer;6%2B+Years+of+Experience;Turning+Data+into+Decisions;Building+Scalable+Data+Solutions" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benedict-kimathi-074968369)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benedictkimathi130@gmail.com)
