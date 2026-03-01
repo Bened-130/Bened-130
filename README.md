@@ -21,8 +21,8 @@ I'm a versatile data professional with **6+ years of experience** spanning three
 
 | Role | Focus | Impact |
 |------|-------|--------|
-| ** Data Engineer** | ETL/ELT pipelines, data warehousing, cloud infrastructure | Processing 10M+ rows daily, 40% performance gains |
-| ** ML Engineer** | Predictive modeling, MLOps, feature engineering | 22% churn reduction, $2.5M savings generated |
+| **Data Engineer** | ETL/ELT pipelines, data warehousing, cloud infrastructure | Processing 10M+ rows daily, 40% performance gains |
+| **ML Engineer** | Predictive modeling, MLOps, feature engineering | 22% churn reduction, $2.5M savings generated |
 | **Data Analyst** | Statistical analysis, BI dashboards, ad-hoc reporting | Identified $3.5M revenue opportunities |
 
 ---
