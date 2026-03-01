@@ -3,9 +3,6 @@
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Benedict+Kimathi+%F0%9F%91%8B;Data+Engineer+%7C+ML+Engineer+%7C+Data+Analyst;6%2B+Years+Building+Data+Solutions;Turning+Raw+Data+Into+Business+Value" alt="Typing Header" />
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Bened-130&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
 <!-- Availability Badge -->
 <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge&logo=Handshake&logoColor=white" alt="Available" />
 
@@ -81,19 +78,19 @@ I'm a versatile data professional with **6+ years of experience** spanning three
 
 ---
 
-## 📊 Skills Matrix
+##  Skills Matrix
 
-| Domain | Skill | Proficiency | Experience |
-|--------|-------|-------------|------------|
-| **Data Engineering** | SQL & Database Design | ⭐⭐⭐⭐⭐ (95%) | 6+ years |
-| **Data Engineering** | Snowflake & dbt | ⭐⭐⭐⭐⭐ (93%) | 5+ years |
-| **Data Engineering** | Apache Airflow | ⭐⭐⭐⭐☆ (88%) | 4+ years |
-| **Programming** | Python / Pandas | ⭐⭐⭐⭐⭐ (90%) | 6+ years |
-| **Programming** | Power BI / Tableau | ⭐⭐⭐⭐☆ (86%) | 5+ years |
-| **Machine Learning** | Predictive Modeling | ⭐⭐⭐⭐☆ (80%) | 6+ years |
-| **Machine Learning** | TensorFlow / PyTorch | ⭐⭐⭐☆☆ (70%) | 3+ years |
-| **Cloud & DevOps** | AWS / Azure | ⭐⭐⭐⭐☆ (75%) | 3+ years |
-| **Cloud & DevOps** | Git / CI/CD | ⭐⭐⭐⭐☆ (80%) | 5+ years |
+| Domain | Skill | Experience |
+|--------|-------|------------|
+| **Data Engineering** | SQL & Database Design | 6+ years |
+| **Data Engineering** | Snowflake & dbt  | 5+ years |
+| **Data Engineering** | Apache Airflow | 4+ years |
+| **Programming** | Python / Pandas  | 6+ years |
+| **Programming** | Power BI / Tableau  | 5+ years |
+| **Machine Learning** | Predictive Modeling  | 6+ years |
+| **Machine Learning** | TensorFlow / PyTorch | 3+ years |
+| **Cloud & DevOps** | AWS / Azure  | 3+ years |
+| **Cloud & DevOps** | Git / CI/CD  | 5+ years |
 
 ---
 
