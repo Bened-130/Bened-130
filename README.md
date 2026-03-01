@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Benedict+Kimathi+%F0%9F%91%8B;Data+Engineer+%7C+ML+Engineer+%7C+Data+Analyst;6%2B+Years+Building+Data+Solutions;Turning+Raw+Data+Into+Business+Value" alt="Typing Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Benedict+Kimathi;Data+Engineer+%7C+ML+Engineer+%7C+Data+Analyst;6%2B+Years+Building+Data+Solutions;Turning+Raw+Data+Into+Business+Value" alt="Typing Header" />
 
 <!-- Availability Badge -->
 <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge&logo=Handshake&logoColor=white" alt="Available" />
