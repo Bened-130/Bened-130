@@ -151,7 +151,7 @@ I'm currently open to **senior data engineering and ML engineering roles** — f
 
 <div align="center">
 
-**💡 Fun Fact:** I've processed over **2 billion rows** of data throughout my career, that's roughly 25 rows for every person on Earth! 🌍
+**Fun Fact:** I've processed over **2 billion rows** of data throughout my career, that's roughly 25 rows for every person on Earth! 🌍
 
 *"In God we trust. All others must bring data."* — W. Edwards Deming
 
