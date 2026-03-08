@@ -130,7 +130,7 @@ End-to-end pipelines transforming 120+ GB of climate data
 ##  Education
 
 - **MSc. Data Science & Analytics** — *University of Nairobi* (2026, In Progress)
-- **BSc. Industrial Mathematics** — *JKUAT* (2016 - 2018)
+- **BSc. Industrial Mathematics** — *JKUAT* (2016 - 2020)
 
 ---
 
