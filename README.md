@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a versatile data professional with **6+ years of experience** spanning three critical domains of the data lifecycle. Based in **Nairobi, Kenya**, I architect scalable data platforms, deploy production ML models, and derive actionable insights that drive measurable business impact.
+I'm a versatile data professional with **several years of experience** spanning three critical domains of the data lifecycle. Based in **Nairobi, Kenya**, I architect scalable data platforms, deploy production ML models, and derive actionable insights that drive measurable business impact.
 
 ### What I Do
 
@@ -129,8 +129,7 @@ End-to-end pipelines transforming 120+ GB of climate data
 
 ##  Education
 
-- **MSc. Data Science & Analytics** — *University of Nairobi* (2026, In Progress)
-- **BSc. Computer Science** — *JKUAT* (2016 - 2021)
+- **BSc. Computer Science** — *JKUAT* (2021)
 
 ---
 
